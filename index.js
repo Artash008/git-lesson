@@ -1,3 +1,6 @@
-const array = [1,3,4,5]
 
-console.log(array);
+
+
+const d  = 5;
+console.log(d);
+ 
